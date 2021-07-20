@@ -45,7 +45,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/iamimran1909"><img src="https://img.shields.io/badge/-?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:imranahmedali1314@gmail.com"><img src="https://img.shields.io/badge/-tabishakhtar01@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/iamimran1909 "><img src="https://img.shields.io/badge/-iamimran1909 -0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:imranahmedali1314@gmail.com"><img src="https://img.shields.io/badge/-imranahmedali1314@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
